@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1554432329 source:c:\users\yamil\desktop\esapcio utn\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554431029 source:c:\users\yamil\desktop\esapcio utn\tp1\tp1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554428592 c:\users\yamil\desktop\esapcio utn\tp1\tp1\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
