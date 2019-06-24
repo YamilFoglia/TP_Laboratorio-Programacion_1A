@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1555643451 source:c:\users\yamil\desktop\t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"string.h"
+
+1555643619 source:c:\users\yamil\desktop\t2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1555643619 c:\users\yamil\desktop\t2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1555643702 source:f:\t2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1555643620 f:\t2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1555714386 source:f:\t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1555796936 source:c:\users\tomi\desktop\t2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1555782876 c:\users\tomi\desktop\t2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1555797020 source:c:\users\tomi\desktop\t2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1557025014 source:c:\users\yamil\desktop\tp 2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1557020928 c:\users\yamil\desktop\tp 2\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557024828 c:\users\yamil\desktop\tp 2\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557020928 source:c:\users\yamil\desktop\tp 2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"empleados.h"
+
+1557025108 source:c:\users\yamil\desktop\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1557532906 source:c:\users\usuario\downloads\tp 2 (1)\tp 2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1557531647 c:\users\usuario\downloads\tp 2 (1)\tp 2\empleados.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1557529726 source:c:\users\usuario\downloads\tp 2 (1)\tp 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleados.h"
+
+1560551918 source:c:\users\yamil\desktop\trabajo practico_2\foglia_yamil\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1560551918 c:\users\yamil\desktop\trabajo practico_2\foglia_yamil\arrayemployees.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1560551918 source:c:\users\yamil\desktop\trabajo practico_2\foglia_yamil\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
